@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Najeebullah Khan 👋
 
-<!--
-**najeeb42501/najeeb42501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Full-Stack | AI/LLM Engineer
 
-Here are some ideas to get you started:
+I build scalable enterprise applications, real-time systems,
+and AI-powered products across fintech, healthcare and SaaS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+React • Next.js • Angular • TypeScript • JavaScript
+Spring Boot • Node.js • Python • Java
+PostgreSQL • MySQL • Oracle • Redis
+Docker • AWS • Cloudflare
+OpenAI • RAG • LLM Agents
+
+## 🚀 Featured Work
+
+### PakLex AI
+AI-powered Pakistani legal knowledge assistant using RAG,
+semantic search and LLMs.
+
+### Real-Time Jobs Monitor
+Real-time operations dashboard with live job and transaction
+monitoring.
+
+### Enterprise Fintech Platforms
+Worked on large-scale investment, onboarding and financial
+applications used by enterprise customers.
+
+## 🌐 Portfolio
+
+najeb.vercel.app
